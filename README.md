@@ -13,7 +13,7 @@ B.Tech CSE @ IIIT Bhopal (2024–2028) | Aspiring ML Engineer | Building agentic
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuj-shrivastava-XXXX"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/anuj-shrivastava-899122325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shrivastavaanuj059@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -60,30 +60,30 @@ B.Tech CSE @ IIIT Bhopal (2024–2028) | Aspiring ML Engineer | Building agentic
 
 ### 📌 Featured Projects
 
-#### 🔗 [Agentic Multi-Model Code Generation Pipeline](https://github.com/your-username/your-repo)
+#### 🔗 [Agentic Multi-Model Code Generation Pipeline](https://github.com/anujr-shri/code-generator-langgraph)
 `LangGraph` `LangChain` `ChromaDB` `Streamlit` `LangSmith`
 
 A LangGraph-based agentic workflow featuring query classification, query rewriting, RAG-based code generation, AST/compilation validation, and a self-correcting loop that feeds execution errors back to the LLM. Implements a multi-provider fallback chain (**Groq → Gemini → Hugging Face**) for reliability, with ChromaDB-based retrieval, LangSmith tracing, and a multi-chat Streamlit frontend with UUID-based session management. Resolved Render deployment issues including dependency bloat (~1.7GB → free-tier limits).
 
-🔗 **[Live Demo](#)** &nbsp;|&nbsp; **[GitHub Repo](#)**
+🔗 **[Live Demo](https://code-generator-langgraph.onrender.com/)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/anujr-shri/code-generator-langgraph)**
 
 ---
 
-#### 🔗 [GEN_AI1 — PDF Question-Answering Chatbot](https://github.com/your-username/your-repo)
+#### 🔗 [GEN_AI1 — PDF Question-Answering Chatbot](https://github.com/anujr-shri/Gen_AI1)
 `LangChain` `FastAPI` `ChromaDB` `HuggingFace` `Streamlit`
 
 A retrieval-augmented PDF chatbot built with LangChain, using **Qwen2.5-7B-Instruct** (via Hugging Face) and ChromaDB for vector storage. FastAPI backend deployed on Render, Streamlit frontend on Streamlit Cloud. Integrated LangSmith tracing for retrieval quality monitoring, and resolved CORS, path-resolution, and prompt-loading issues for production stability.
 
-🔗 **[Live Demo](#)** &nbsp;|&nbsp; **[GitHub Repo](#)**
+🔗 **[Live Demo](https://genai1-pdf-chatbot.streamlit.app/)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/anujr-shri/Gen_AI1)**
 
 ---
 
-#### 🔗 [Gesture-Controlled Game Automation (Shadow Fight Arena)](https://github.com/your-username/your-repo)
+#### 🔗 [Gesture-Controlled Game Automation (Shadow Fight Arena)](https://github.com/anujr-shri/shadowfight-Arena-medipipe-II)
 `Python` `OpenCV` `MediaPipe` `PyAutoGUI`
 
 Real-time hand-gesture recognition system using MediaPipe and OpenCV, mapping gestures to in-game actions. Built a low-latency PyAutoGUI input pipeline to translate detected gestures into game controls.
 
-🔗 **[GitHub Repo](#)**
+🔗 **[GitHub Repo](https://github.com/anujr-shri/shadowfight-Arena-medipipe-II)**
 
 ---
 
