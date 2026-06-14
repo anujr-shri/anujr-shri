@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Anuj Shrivastava 👋</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;LangGraph+%7C+RAG+Pipelines+%7C+LLMs;Aspiring+ML+Engineer+%E2%86%92+PhD" alt="Typing SVG" />
+</p>
+
+<p align="center">
 B.Tech CSE @ IIIT Bhopal (2024–2028) | Aspiring ML Engineer | Building agentic AI systems & RAG pipelines
 </p>
 
@@ -79,17 +87,9 @@ Real-time hand-gesture recognition system using MediaPipe and OpenCV, mapping ge
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">📫 Reach me at <b>shrivastavaanuj059@gmail.com</b></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
+  <i>Thanks for stopping by!</i>
+</p>
