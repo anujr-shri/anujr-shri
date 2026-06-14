@@ -65,8 +65,7 @@ B.Tech CSE @ IIIT Bhopal (2024–2028) | Aspiring ML Engineer | Building agentic
 
 A LangGraph-based agentic workflow featuring query classification, query rewriting, RAG-based code generation, AST/compilation validation, and a self-correcting loop that feeds execution errors back to the LLM. Implements a multi-provider fallback chain (**Groq → Gemini → Hugging Face**) for reliability, with ChromaDB-based retrieval, LangSmith tracing, and a multi-chat Streamlit frontend with UUID-based session management. Resolved Render deployment issues including dependency bloat (~1.7GB → free-tier limits).
 
-🔗 **[Live Demo](https://code-generator-langgraph.onrender.com/<img width="486" height="74" alt="image" src="https://github.com/user-attachments/assets/ec8c3efb-e556-43d0-b9dd-873f942b6737" />
-)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/anujr-shri/code-generator-langgraph)**
+🔗 **[Live Demo](#)** &nbsp;|&nbsp; **[GitHub Repo](#)**
 
 ---
 
@@ -75,9 +74,7 @@ A LangGraph-based agentic workflow featuring query classification, query rewriti
 
 A retrieval-augmented PDF chatbot built with LangChain, using **Qwen2.5-7B-Instruct** (via Hugging Face) and ChromaDB for vector storage. FastAPI backend deployed on Render, Streamlit frontend on Streamlit Cloud. Integrated LangSmith tracing for retrieval quality monitoring, and resolved CORS, path-resolution, and prompt-loading issues for production stability.
 
-🔗 **[Live Demo](https://genai1-pdf-chatbot.streamlit.app<img width="486" height="74" alt="image" src="https://github.com/user-attachments/assets/fcc54b5d-f459-4c22-ad4e-0e114a46ecc7" />
-)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/anujr-shri/Gen_AI1<img width="486" height="74" alt="image" src="https://github.com/user-attachments/assets/ad290cb7-37e6-4f0e-9962-d45952f6f6ac" />
-)**
+🔗 **[Live Demo](#)** &nbsp;|&nbsp; **[GitHub Repo](#)**
 
 ---
 
@@ -86,8 +83,7 @@ A retrieval-augmented PDF chatbot built with LangChain, using **Qwen2.5-7B-Instr
 
 Real-time hand-gesture recognition system using MediaPipe and OpenCV, mapping gestures to in-game actions. Built a low-latency PyAutoGUI input pipeline to translate detected gestures into game controls.
 
-🔗 **[GitHub Repo](https://github.com/anujr-shri/shadowfight-Arena-medipipe-II<img width="486" height="74" alt="image" src="https://github.com/user-attachments/assets/49243f35-3a44-4f28-a420-16e26f8af507" />
-)**
+🔗 **[GitHub Repo](#)**
 
 ---
 
