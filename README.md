@@ -65,7 +65,7 @@ B.Tech CSE @ IIIT Bhopal (2024–2028) | Aspiring ML Engineer | Building agentic
 
 A LangGraph-based agentic workflow featuring query classification, query rewriting, RAG-based code generation, AST/compilation validation, and a self-correcting loop that feeds execution errors back to the LLM. Implements a multi-provider fallback chain (**Groq → Gemini → Hugging Face**) for reliability, with ChromaDB-based retrieval, LangSmith tracing, and a multi-chat Streamlit frontend with UUID-based session management. Resolved Render deployment issues including dependency bloat (~1.7GB → free-tier limits).
 
-🔗 **[Live Demo](#)** &nbsp;|&nbsp; **[GitHub Repo](#)**
+🔗 **[Live Demo](#)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/anujr-shri/code-generator-langgraph)**
 
 ---
 
